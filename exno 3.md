@@ -37,8 +37,11 @@ Editor.
 23: Play the game or simulate it to see the changes you made to the character.:
 Output:
 
-//paste your output screenshot here
+![Screenshot 2025-05-14 133700](https://github.com/user-attachments/assets/b429db2a-bfc7-47f9-9fd0-aa9a31af3c5f)
 
+![Screenshot 2025-05-14 133719](https://github.com/user-attachments/assets/ad97f290-2206-47b7-9e14-3f77610e08fd)
+
+![Screenshot 2025-05-14 133725](https://github.com/user-attachments/assets/70cb200b-a5c7-40e2-b408-786aacfefffa)
 
 Result:
 Changing the third-person character mesh and adding animations is implemented
